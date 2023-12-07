@@ -51,3 +51,6 @@ You can use a script `words_generator.py` to generate random tests:
 ```shell
 python words_generator.py
 ```
+
+## 📊 Performance statistics
+![](https://0x0.st/H3Kb.png)
