@@ -1,0 +1,3 @@
+# Crossword evolutionary generating algorythm
+
+
